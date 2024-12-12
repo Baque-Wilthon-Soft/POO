@@ -1,0 +1,55 @@
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.exe
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.deps.json
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.runtimeconfig.json
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.dll
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.pdb
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Form1.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuAutor.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuPublicador.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuTitulos.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.dll
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\refint\pubssemana3.dll
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.pdb
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\ref\pubssemana3.dll
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuEmpleado.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuVentas.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuTiendas.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuAutorTitulo.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuDescuento.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuRegalia.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuPublicadorInfo.resources
+C:\Users\Jonathan\source\repos\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuTrabajos.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.exe
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.deps.json
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.runtimeconfig.json
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.dll
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\bin\Debug\net8.0-windows\pubssemana3.pdb
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Form1.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuAutor.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuAutorTitulo.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuDescuento.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuEmpleado.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuPublicador.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuPublicadorInfo.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuRegalia.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuTiendas.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuTitulos.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuTrabajos.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.Formularios.FormuVentas.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.csproj.GenerateResource.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.AssemblyInfo.cs
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.sourcelink.json
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.dll
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\refint\pubssemana3.dll
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.pdb
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\pubssemana3.genruntimeconfig.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 3\pubssemana3\pubssemana3\obj\Debug\net8.0-windows\ref\pubssemana3.dll
