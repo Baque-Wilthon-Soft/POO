@@ -8,3 +8,13 @@ C:\Users\JUNIOR\Documents\POO II\GestionTareasPendiente\GestionTareasPendiente\o
 C:\Users\JUNIOR\Documents\POO II\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.exe
 C:\Users\JUNIOR\Documents\POO II\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.pdb
 C:\Users\JUNIOR\Documents\POO II\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.GestionTareasPendientes.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\bin\Debug\GestionTareasPendiente.exe.config
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\bin\Debug\GestionTareasPendiente.exe
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\bin\Debug\GestionTareasPendiente.pdb
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.GestionTareasPendientes.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.Properties.Resources.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.csproj.GenerateResource.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.exe
+C:\Users\JUNIOR\Documents\POO\Tarea 1\GestionTareasPendiente\GestionTareasPendiente\obj\Debug\GestionTareasPendiente.pdb

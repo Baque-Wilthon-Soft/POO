@@ -1,0 +1,21 @@
+CREATE PROCEDURE listaEmpleadosConEstado
+AS
+BEGIN
+    SELECT 
+        BusinessEntityID,
+        NationalIDNumber,
+        JobTitle,
+        HireDate,
+        Gender,
+        CASE 
+            WHEN SalariedFlag = 1 THEN 'Empleado Asalariado'
+            ELSE 'Empleado por Hora'
+        END AS TipoEmpleado,
+        CASE 
+            WHEN CurrentFlag = 1 THEN 'Activo'
+            ELSE 'Inactivo'
+        END AS EstadoActual,
+        ModifiedDate
+    FROM HumanResources.Employee
+END
+GO

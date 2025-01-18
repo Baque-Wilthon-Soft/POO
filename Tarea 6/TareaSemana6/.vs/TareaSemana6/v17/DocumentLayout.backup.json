@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA063B6-E9F5-4F01-9CDC-3C46A1D25673}|TareaSemana6.csproj|c:\\users\\junior\\documents\\poo\\tarea 6\\tareasemana6\\reporte.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0CA063B6-E9F5-4F01-9CDC-3C46A1D25673}|TareaSemana6.csproj|solutionrelative:reporte.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA063B6-E9F5-4F01-9CDC-3C46A1D25673}|TareaSemana6.csproj|C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CA063B6-E9F5-4F01-9CDC-3C46A1D25673}|TareaSemana6.csproj|solutionrelative:reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA063B6-E9F5-4F01-9CDC-3C46A1D25673}|TareaSemana6.csproj|C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA063B6-E9F5-4F01-9CDC-3C46A1D25673}|TareaSemana6.csproj|solutionrelative:reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\Reporte.cs",
+              "RelativeDocumentMoniker": "Reporte.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\Reporte.cs",
+              "RelativeToolTip": "Reporte.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:19:05.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reporte.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\Reporte.rdlc",
+              "RelativeDocumentMoniker": "Reporte.rdlc",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\Reporte.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Reporte.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-01-18T01:58:10.525Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Documents\\POO\\Tarea 6\\TareaSemana6\\Reporte.cs",
+              "RelativeDocumentMoniker": "Reporte.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Documents\\Mi proyecto\\3\\TareaSemana6\\Reporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Mi proyecto\\3\\TareaSemana6\\Reporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T01:57:06.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
