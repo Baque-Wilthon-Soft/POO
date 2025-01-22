@@ -1,0 +1,15 @@
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\bin\Debug\ControlDeUsuarios.exe.config
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\bin\Debug\ControlDeUsuarios.exe
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\bin\Debug\ControlDeUsuarios.pdb
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.csproj.AssemblyReference.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.MenuPrincipal.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.Properties.Resources.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.Vista.Login.Login.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.Vista.Registro.CURegistro.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.csproj.GenerateResource.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.exe
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.pdb
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.Vista.Libros.CULibros.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.Vista.Prestamos.CUPrestamos.resources
+C:\Users\JUNIOR\Documents\POO\Tarea 7\ControlDeUsuarios\obj\Debug\ControlDeUsuarios.Vista.UsuariosLib.CUUsuariosLib.resources
